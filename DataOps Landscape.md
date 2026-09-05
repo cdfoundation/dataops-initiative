@@ -1,3 +1,5 @@
+Here are the open source tools we found useful for DataOps. Please create a pull request if you believe one is missing and feel free to [Join CDF Slack](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-44c6rpi1z-dFDPNRchD37ehiyB6QcdnQ) to ask any questions.
+
 | Project Name               | Category                      | GitHub Link                                                                                       | Open Source (y/n) | 500 Github stars? (y/n) |
 |----------------------------|-------------------------------|---------------------------------------------------------------------------------------------------|-------------------|-------------------------|
 | Airbyte                    | Data Integration (ELT)        | [airbytehq/airbyte](https://github.com/airbytehq/airbyte)                                         | y                 | y                       |
