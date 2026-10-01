@@ -40,6 +40,7 @@ Here are the open source tools we found useful for DataOps. Please create a pull
 | Mage                       | Workflow Orchestration        | [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)                                             | y                 | y                       |
 | Marquez                    | Metadata & Governance         | [MarquezProject/marquez](https://github.com/MarquezProject/marquez)                               | y                 | y                       |
 | Meltano                    | Data Integration (ELT)        | [meltano/meltano](https://github.com/meltano/meltano)                                             | y                 | y                       |
+| Metabase                   | BI & Visualization            | [metabase/metabase](https://github.com/metabase/metabase)                                         | y                 | y                       |
 | Milvus                     | Data store                    | [milvus-io/milvus](https://github.com/milvus-io/milvus)                                           | y                 | y                       |
 | MinIO                      | Object Storage                | [minio/minio](https://github.com/minio/minio)                                                     | y                 | y                       |
 | MLflow                     | MLOps (Lifecycle)             | [mlflow/mlflow](https://github.com/mlflow/mlflow)                                                 | y                 | y                       |
